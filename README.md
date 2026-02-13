@@ -36,7 +36,8 @@ Ferramentas Dev.
 
 ## 💻 Como Rodar
 
-Se você acabou de formatar o PC ou clonou o repositório agora, siga estes passos no terminal:
+Se você acabou de formatar o PC ou clonou o repositório agora,
+siga estes passos no terminal:
 
 ### 1. Clonar o repositório
 ```bash
