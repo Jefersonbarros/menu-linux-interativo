@@ -40,4 +40,12 @@ siga estes passos no terminal:
 ### 1. Clonar o repositório
 ```bash
 git clone [https://github.com/Jefersonbarros/menu-linux-interativo.git)
-cd menu-linux-interativo
+cd t-picos-de-comandos-linux
+
+### 2. Dê permissão de execução ao arquivo
+```bash
+chmod +x guia.sh
+
+### 3. Inicie o menu
+```bash
+./guia.sh
