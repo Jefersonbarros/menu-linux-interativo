@@ -32,7 +32,7 @@ Ferramentas Dev.
 
 ---
 
-## 💻 Como Rodar
+##💻 Como Rodar
 
 Se você acabou de formatar o PC ou clonou o repositório agora,
 siga estes passos no terminal:
