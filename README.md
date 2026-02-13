@@ -9,13 +9,15 @@
 
 # 🖥️ Menu Interativo Linux: Guia de Estudos e Automação
 
-Este repositório centraliza meu aprendizado sobre o ecossistema **Ubuntu/Linux**.
-Através de um **script Bash interativo**,organizei comandos essenciais, dicas de
- administração de sistemas e automações em um único lugar.
+Este repositório centraliza meu aprendizado sobre o ecossistema
+**Ubuntu/Linux**.Através de um **script Bash interativo**,
+organizei comandos essenciais, dicas de administração de
+sistemas e automações em um único lugar.
 
 ## 🚀 Objetivo
-Facilitar a configuração de novas máquinas e servir como uma base de consulta
-rápida para comandos que vão desde o básico até o diagnóstico avançado de redes e segurança.
+Facilitar a configuração de novas máquinas e servir como uma
+base de consulta rápida para comandos que vão desde o básico
+até o diagnóstico avançado de redes e segurança.
 
 ## 🛠️ O que você encontra no Menu?
 O script `guia.sh` está organizado nos seguintes tópicos:
