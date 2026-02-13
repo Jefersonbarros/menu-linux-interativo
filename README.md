@@ -53,3 +53,18 @@ chmod +x guia.sh
 ./guia.sh
 ```
 
+## 🤝 Como Contribuir
+
+Contribuições são o que fazem a comunidade open source um lugar incrível para aprender e criar. Qualquer contribuição que você fizer será **muito apreciada**.
+
+1. **Faça um Fork do projeto**
+2. **Crie uma Branch para sua Feature** (`git checkout -b feature/NovoComando`)
+3. **Faça o Commit de suas alterações** (`git commit -m 'Adicionando novo comando de rede'`)
+4. **Faça o Push para a Branch** (`git push origin feature/NovoComando`)
+5. **Abra um Pull Request**
+
+### 💡 Ideias de como ajudar:
+* Adicionar novos tópicos ao menu principal.
+* Corrigir erros de digitação ou bugs nos scripts.
+* Sugerir melhorias na interface visual do menu.
+
