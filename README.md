@@ -39,5 +39,5 @@ siga estes passos no terminal:
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
-cd NOME_DO_REPO
+git clone [https://github.com/Jefersonbarros/menu-linux-interativo)
+cd menu-linux-interativo
