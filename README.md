@@ -39,5 +39,5 @@ siga estes passos no terminal:
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/Jefersonbarros/menu-linux-interativo)
+git clone [https://github.com/Jefersonbarros/menu-linux-interativo.git)
 cd menu-linux-interativo
