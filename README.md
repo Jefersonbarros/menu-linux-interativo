@@ -29,7 +29,8 @@ O script `guia.sh` está organizado nos seguintes tópicos:
 5.  **Monitoramento:** Processos, CPU e Memória.
 6.  **Redes:** Diagnóstico, portas e SSH.
 7.  **Segurança:** Configuração de Firewall (UFW).
-8.  **E muito mais:** Backup, Cron, Shell Scripting e Ferramentas Dev.
+8.  **E muito mais:** Backup, Cron, Shell Scripting e
+Ferramentas Dev.
 
 ---
 
